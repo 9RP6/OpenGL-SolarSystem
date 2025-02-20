@@ -6,7 +6,7 @@ Clone the repo with submodules using the following command:
 
 * Step 1  - Cloning with all the submodules
 ```
-git clone --recurse-submodules https://github.com/kushagra10025/OpenGL-Starter.git
+git clone --recurse-submodules https://github.com/9RP6/OpenGL-SolarSystem.git
 cd OpenGL-Starter
 ```
 * Step 2 - Setting Up VS Code with CMake and Loading the Project.
